@@ -31,6 +31,7 @@ The challenges available in this repository include the following categories:
 - **Inspect HTML**
 - **Local Authority**
 - **Scavenger Hunt**
+- **SSTI1**
 - **WebDecode**
 
 ### 🔹 Forensics
