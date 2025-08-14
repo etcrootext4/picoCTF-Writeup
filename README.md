@@ -27,6 +27,7 @@ The challenges available in this repository include the following categories:
 ### 🔹 Web Exploitation
 - **Bookmarklet**
 - **Cookies**
+- **Heap-dump**
 - **Includes**
 - **Inspect HTML**
 - **Local Authority**
@@ -50,7 +51,8 @@ The challenges available in this repository include the following categories:
 ### 🔹 Misc
 - **Collaborative Development**  
 
-### 🔹 Cryptographi
+### 🔹 Cryptography
+- **Hashcrack**
 - **Interencdec**  
 
 Each folder contains a `README.md` file with explanations and solutions for the related challenge.
