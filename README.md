@@ -30,6 +30,7 @@ The challenges available in this repository include the following categories:
 - **Includes**
 - **Inspect HTML**
 - **Local Authority**
+- **N0s4n1ty 1**
 - **Scavenger Hunt**
 - **SSTI1**
 - **WebDecode**
@@ -43,7 +44,8 @@ The challenges available in this repository include the following categories:
 - **Verify**
 
 ### 🔹 Binary Exploitation
-- **format string 0**
+- **Format string 0**
+- **PIE TIME**
 
 ### 🔹 Misc
 - **Collaborative Development**  
