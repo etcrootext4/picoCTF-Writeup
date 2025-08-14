@@ -55,6 +55,9 @@ The challenges available in this repository include the following categories:
 - **Hashcrack**
 - **Interencdec**  
 
+### 🔹 Reverse Engineering
+- **Flag Hunter** 
+
 Each folder contains a `README.md` file with explanations and solutions for the related challenge.
 
 ## 🚀 Purpose
