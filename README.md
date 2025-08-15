@@ -9,6 +9,7 @@ The challenges available in this repository include the following categories:
 ### 🔹 General Skills
 - **Big Zip**
 - **Commitment Issues**
+- **FANTASY CTF**
 - **First Find**
 - **Fixme1.py**
 - **Fixme2.py**
