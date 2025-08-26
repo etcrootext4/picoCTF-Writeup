@@ -8,6 +8,7 @@ The challenges available in this repository include the following categories:
 
 ### 🔹 General Skills
 - **Big Zip**
+- **Blame Game**
 - **Commitment Issues**
 - **Endianness**
 - **FANTASY CTF**
