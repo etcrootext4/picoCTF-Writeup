@@ -21,6 +21,7 @@ The challenges available in this repository include the following categories:
 - **PW Crack 2**
 - **Python Wrangling**
 - **Repetitions**
+- **Rust fixme 1**
 - **Static ain't always noise**
 - **Tab, Tab, Attack**
 - **Wave a Flag**
