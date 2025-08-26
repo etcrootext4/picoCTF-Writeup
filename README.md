@@ -35,6 +35,7 @@ The challenges available in this repository include the following categories:
 - **Heap-dump**
 - **Includes**
 - **Inspect HTML**
+- **IntroToBurp**
 - **Local Authority**
 - **N0s4n1ty 1**
 - **Scavenger Hunt**
