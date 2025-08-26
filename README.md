@@ -27,6 +27,7 @@ The challenges available in this repository include the following categories:
 
 ### 🔹 Web Exploitation
 - **Bookmarklet**
+- **Cookie Monster Secret Recipe**
 - **Cookies**
 - **Heap-dump**
 - **Includes**
