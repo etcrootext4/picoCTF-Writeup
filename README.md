@@ -22,6 +22,8 @@ The challenges available in this repository include the following categories:
 - **Python Wrangling**
 - **Repetitions**
 - **Rust fixme 1**
+- **Rust fixme 2**
+- **Rust fixme 3**
 - **Static ain't always noise**
 - **Tab, Tab, Attack**
 - **Wave a Flag**
@@ -43,6 +45,8 @@ The challenges available in this repository include the following categories:
 - **CanYouSee**
 - **DISKO 1**
 - **Information**
+- **Ph4nt0m 1ntrud3r**
+- **RED**
 - **Scan Surprise**
 - **Secret of the Polyglot**
 - **Verify**
