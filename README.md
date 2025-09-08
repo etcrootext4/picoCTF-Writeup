@@ -8,6 +8,7 @@ The challenges available in this repository include the following categories:
 
 ### 🔹 General Skills
 - **Big Zip**
+- **Binary Search**
 - **Binhexa**
 - **Blame Game**
 - **Commitment Issues**
@@ -57,6 +58,7 @@ The challenges available in this repository include the following categories:
 
 ### 🔹 Binary Exploitation
 - **Format string 0**
+- **Heap 0**
 - **PIE TIME**
 
 ### 🔹 Misc
