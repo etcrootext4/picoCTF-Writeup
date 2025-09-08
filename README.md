@@ -11,7 +11,9 @@ The challenges available in this repository include the following categories:
 - **Binary Search**
 - **Binhexa**
 - **Blame Game**
+- **Codebook**
 - **Commitment Issues**
+- **Convertme.py**
 - **Endianness**
 - **FANTASY CTF**
 - **First Find**
@@ -25,10 +27,12 @@ The challenges available in this repository include the following categories:
 - **PW Crack 2**
 - **Python Wrangling**
 - **Repetitions**
+- **Runme.py**
 - **Rust fixme 1**
 - **Rust fixme 2**
 - **Rust fixme 3**
 - **Static ain't always noise**
+- **Super SSH**
 - **Time Machine**
 - **Tab, Tab, Attack**
 - **Wave a Flag**
